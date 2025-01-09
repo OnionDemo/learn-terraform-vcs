@@ -4,10 +4,10 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "Ting_HCP_Demo"
 
     workspaces {
-      name = "learn-terraform"
+      name = "learn-terraform-vcs"
     }
   }
 
