@@ -3,13 +3,13 @@
 
 terraform {
 
-  cloud {
+  /*cloud {
     organization = "Ting_HCP_Demo"
 
     workspaces {
       name = "learn-terraform-vcs"
     }
-  }
+  }*/
 
   required_providers {
     aws = {
