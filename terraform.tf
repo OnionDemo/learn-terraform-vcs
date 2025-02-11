@@ -7,7 +7,7 @@ terraform {
     organization = "Ting_HCP_Demo"
 
     workspaces {
-      name = "learn-terraform-vcs"
+      name = "learn-terraform"
     }
   }*/
 
